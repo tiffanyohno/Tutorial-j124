@@ -13,3 +13,6 @@ Someone once told me the following quote:
 
 This will have a ~~strikethrough~~
 
+This is a chart that I made:
+
+! [This is a data wrapper chart] (IMG_1874.png)
